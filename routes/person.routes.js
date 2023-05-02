@@ -123,8 +123,6 @@
  *           schema:
  *             type: object
  *             properties:
- *                id:
- *                 type: Integer
  *                name:
  *                  type: string
  *                age:
